@@ -220,40 +220,60 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+/* Body classes Start */
+/* Body classes Start */
+/* Body classes Start */
+/* Body classes Start */
+/* Body classes Start */
+/* Body classes Start */
 
 
 
 body{
     background-color: #000000;
     color: #ffffff;
-    
 }
-
+.col-9{
+    width: 75%;
+}
 .col-6{
     width: 50%;
 }
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width: 40%;
+}
+.col-8{
+    width: 60%;
+}
+.col-66{
+    width: 66.66%;
+}
+.col-33{
+    width: 33.33%;
+}
+
+/* Body classes End */
+/* Body classes End */
+/* Body classes End */
+/* Body classes End */
+/* Body classes End */
+/* Body classes End */
+
+
+
+
+
+
 
 /* navbar start */
 /* navbar start */
 /* navbar start */
 /* navbar start */
 /* navbar start */
-/* navbar start */
-/* navbar start */
-/* navbar start */
-/* navbar start */
-/* navbar start */
-/* navbar start */
+
 .nav{
     border-bottom:2px solid #ffffff;
     box-shadow: #ffffff;
@@ -300,12 +320,7 @@ ul {
 /* navbar end */
 /* navbar end */
 /* navbar end */
-/* navbar end */
-/* navbar end */
-/* navbar end */
-/* navbar end */
-/* navbar end */
-/* navbar end */
+
 
 
 
@@ -349,27 +364,32 @@ ul {
 
 
 .items1 img, .items2 img,.items3 img,.items4 img,.items5 img{
-    width: 150px;
-    height: 280px;
+    width: 180px;
+    height: 320px;
     object-fit: cover;
     
 }
 .items1 p, .items2 p,.items3 p,.items4 p,.items5 p{
-    font-size: medium;
+    font-size: small;
     text-align: center;
     color: #ffffff;
 
 }
 
+.chooseByCategory{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #0e0d0d;
+}
+
 
 /* Choose by category area end */
 /* Choose by category area end */
 /* Choose by category area end */
 /* Choose by category area end */
 /* Choose by category area end */
-/* Choose by category area end */
 
- 
+
 
 
 
@@ -427,6 +447,10 @@ ul {
 
 
 /* Our Deals!Start  */
+/* Our Deals!Start  */
+/* Our Deals!Start  */
+/* Our Deals!Start  */
+/* Our Deals!Start  */
   
 .Our-Deals{
     margin-top: 30px;
@@ -462,6 +486,10 @@ ul {
 }
 
 /* Our Deals!End  */
+/* Our Deals!End  */
+/* Our Deals!End  */
+/* Our Deals!End  */
+/* Our Deals!End  */
 
 
 
@@ -484,6 +512,44 @@ ul {
     width: 170px;
     border-radius: 40px;
 }
+/* Menu of the week!End */
+/* Menu of the week!End */
+/* Menu of the week!End */
+/* Menu of the week!End */
+/* Menu of the week!End */
+
+
+
+
+/* Social Feed!Start  */
+/* Social Feed!Start  */
+/* Social Feed!Start  */
+/* Social Feed!Start  */
+/* Social Feed!Start  */
+/* Social Feed!Start  */
+
+
+.Social-Feed{
+    text-align: center;
+}
+
+
+.Feed1 img, .Feed2 img,.Feed3 img,.Feed4 img,.Feed5 img{
+    width: 220px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+
+
+
+/* Social Feed!End  */
+/* Social Feed!End  */
+/* Social Feed!End  */
+/* Social Feed!End  */
+/* Social Feed!End  */
+/* Social Feed!End  */
 
 
 
@@ -493,6 +559,33 @@ ul {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
+/* Media Querry responsive design */
 /* Media Querry responsive design */
 /* Media Querry responsive design */
 /* Media Querry responsive design */
@@ -505,7 +598,6 @@ ul {
 @media screen and (max-width: 480px){
 
 
-/* navbar area start */
 /* navbar area start */
 /* navbar area start */
 /* navbar area start */
@@ -765,54 +857,5 @@ ul {
 
 
 }
-
-
-
-
-
-
-
-
-
-/* Menu of the week!Start  */
-
-/* 
-.MenuImage img{
-    width: 100%;
-}
-
-.nav-btn3{
-    background-color: var(--red);
-    color: #ffffff;
-    border: none;
-    height: 50px;
-    width: 170px;
-    border-radius: 40px;
-} */
-
-
-/* Menu of the week!End  */
-
-
-
-/* Social Feed!Start  */
-
-
-/* .Social-Feed{
-    text-align: center;
-}
-
-
-.Feed1 img, .Feed2 img,.Feed3 img,.Feed4 img,.Feed5 img{
-    width: 170px;
-    height: 160px;
-    object-fit: cover;
-    
-} */
-
-
-
-
-/* Social Feed!End  */
 
 
